@@ -1,0 +1,1 @@
+c:\progra~1\winrar\winrar.exe a -tb2012-07-24-23-59 -r -df -ag+YYYYMMDD_ \\konserve\BACKUP\DOLMA\DOLMA_SQL_DBs.rar D:\DBBackups\*.*

@@ -1,0 +1,1 @@
+xcopy d:\DBBackups\*.* \\konserve\BACKUP\DOLMA\dbbackups  /s /y /e /i
